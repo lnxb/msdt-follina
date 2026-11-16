@@ -1,3 +1,17 @@
+# Requirements
+> LinuxBirra (https://github.com/LinuxBirra/msdt-follina/)
+Install pycrypto module before running
+
+# Edits
+
+> LinuxBirra (https://github.com/LinuxBirra/msdt-follina/)
+
+1. Added AES encryption on JS code, for hide them from IPS.
+2. Changed from a reverse shell with Netcat to Powershell Rev. Shell
+3. Obfuscated part of Word's XML files.
+
+
+
 # MS-MSDT "Follina" Attack Vector
 
 > John Hammond | May 30, 2022
