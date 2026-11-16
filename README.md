@@ -1,10 +1,10 @@
 # Requirements
-> LinuxBirra (https://github.com/LinuxBirra/msdt-follina/)
+> LinuxBirra (https://github.com/lnxb/msdt-follina/)
 Install pycrypto module before running
 
 # Edits
 
-> LinuxBirra (https://github.com/LinuxBirra/msdt-follina/)
+> LinuxBirra (https://github.com/lnxb/msdt-follina/)
 
 1. Added AES encryption on JS code, for hide them from IPS.
 2. Changed from a reverse shell with Netcat to Powershell Rev. Shell
